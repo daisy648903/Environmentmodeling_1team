@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+*.sln
+*.xcodeproj
+*.xcworkspace
